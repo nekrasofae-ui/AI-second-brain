@@ -11,10 +11,14 @@
             "id": "65c97f375545316f",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Граф"
+              "type": "markdown",
+              "state": {
+                "file": "goals/3-weekly.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3-weekly"
             }
           }
         ]
@@ -178,6 +182,7 @@
   },
   "active": "65c97f375545316f",
   "lastOpenFiles": [
+    "goals/2-monthly.md",
     "goals/1-yearly-2026.md"
   ]
 }
