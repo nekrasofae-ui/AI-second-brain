@@ -197,4 +197,4 @@ If goal-aligned AND passes 2+ filters → highest priority.
 
 ---
 
-*Обновлено: 9 января 2026*
+*Обновлено: 10 января 2026*
