@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "goals/3-weekly.md",
+                "file": "goals/1-yearly.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3-weekly"
+              "title": "1-yearly"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -183,6 +184,7 @@
   "active": "65c97f375545316f",
   "lastOpenFiles": [
     "goals/2-monthly.md",
+    "goals/3-weekly.md",
     "goals/1-yearly-2026.md"
   ]
 }
