@@ -4,7 +4,7 @@
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
-  "autoPushInterval": 0,
+  "autoPushInterval": 5,
   "autoPullInterval": 5,
   "autoPullOnBoot": false,
   "autoCommitOnlyStaged": false,
@@ -19,12 +19,12 @@
   "syncMethod": "merge",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
-  "autoBackupAfterFileChange": false,
+  "autoBackupAfterFileChange": true,
   "treeStructure": false,
   "refreshSourceControl": true,
-  "basePath": "",
-  "differentIntervalCommitAndPush": false,
-  "changedFilesInStatusBar": false,
+  "basePath": "C:\\Users\\Андрей\\Documents\\AI-second-brain\\AI-second-brain",
+  "differentIntervalCommitAndPush": true,
+  "changedFilesInStatusBar": true,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
   "showBranchStatusBar": true,
@@ -36,9 +36,9 @@
   "dateInHistoryView": false,
   "diffStyle": "split",
   "hunks": {
-    "showSigns": false,
-    "hunkCommands": false,
-    "statusBar": "disabled"
+    "showSigns": true,
+    "hunkCommands": true,
+    "statusBar": "colored"
   },
   "lineAuthor": {
     "show": false,
