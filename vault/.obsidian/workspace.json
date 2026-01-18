@@ -113,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "templates/daily-template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из daily-template"
             }
           },
           {
@@ -164,7 +165,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -184,9 +185,11 @@
   },
   "active": "ef4f732eaeaed41d",
   "lastOpenFiles": [
-    "goals/1-yearly.md",
-    "goals/2-monthly.md",
+    "goals/0-vision-3y.md",
     "goals/3-weekly.md",
+    "goals/2-monthly.md",
+    "goals/1-yearly.md",
+    "templates/daily-template.md",
     "goals/1-yearly-2026.md"
   ]
 }
